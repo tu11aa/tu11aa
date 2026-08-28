@@ -38,7 +38,7 @@ I build production web, mobile, and on-chain systems end to end — currently at
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tu11aa/tu11aa/main/metrics.svg" alt="Metrics" />
+<img src="https://raw.githubusercontent.com/tu11aa/tu11aa/main/metrics.svg?v=2" alt="Metrics" />
 
 </div>
 
