@@ -38,10 +38,7 @@ I build production web, mobile, and on-chain systems end to end — currently at
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tu11aa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu11aa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu11aa&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/tu11aa/tu11aa/main/metrics.svg" alt="Metrics" />
 
 </div>
 
