@@ -20,11 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: tu11aa
           filename: metrics.svg
-          base: header, activity, community, repositories
+          base: header, activity
           config_timezone: Asia/Ho_Chi_Minh
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
