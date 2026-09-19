@@ -12,6 +12,8 @@
 
 I build production web, mobile, and on-chain systems end to end — currently at **Quantum3Labs**, shipping BTCFi and DeFi products on **Starknet, Solana, and Arbitrum**. Most of my work lives in the org repos below, not under my own account.
 
+🏆 **1st place** — Superteam Vietnam ["Web2 → Web3"](https://x.com/SuperteamVN/status/2100231850006380612) contest (Sep 2026) for OnePlan Travel's onchain travel fund.
+
 ## 🚀 Selected Work
 
 | Project | Role | What it is |
@@ -20,7 +22,7 @@ I build production web, mobile, and on-chain systems end to end — currently at
 | **[Scaffold-Stark](https://github.com/Scaffold-Stark/scaffold-stark-2)** | Maintainer-level · ~675 commits across 9 repos | The Starknet dApp starter kit (109★ / 170+ forks). Releases, Cairo toolchain, CI hardening, security hotfixes. |
 | **[Pact Network](https://github.com/pactnetwork/pact-monitor)** | Lead engineer | Parametric micro-insurance for AI-agent API payments — NestJS backend, Rust (Pinocchio) program **live on Solana mainnet**, TypeScript SDK. |
 | **Brove** *(closed source)* | Founding engineer | Bitcoin-to-Starknet proving system: Cairo contracts verifying BTC history on-chain, PvP arena, Expo/React Native self-custodial wallet. |
-| **OnePlan** *(closed source)* | Sole Android engineer | Group-trip planning app — Kotlin + Jetpack Compose, realtime chat, ML Kit receipt scanning, Play Billing with server-side verification. |
+| **OnePlan Travel** *(closed source)* | Sole Android engineer | Group-trip planning app — Kotlin + Jetpack Compose, realtime chat, ML Kit receipt scanning, Play Billing with server-side verification. 🏆 1st place, [Superteam Vietnam Web2→Web3](https://x.com/SuperteamVN/status/2100231850006380612) (Sep 2026). |
 | **[Squadrant](https://github.com/tu11aa/squadrant)** | Author | Multi-project agent orchestration for Claude Code. |
 
 ## 🛠 Stack
